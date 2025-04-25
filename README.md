@@ -14,13 +14,11 @@ Participation in the study was voluntary and anonymous. No personal identifiers 
 
 ## Folder Structure
 
-📁 root/
-├── charts/                # Visualizations (charts, tables, graphs)
-├── analysis/              # Python notebooks for data analysis (Colab-compatible)
-├── questionnaire/         # Survey structure and original questions (PDF)
-├── LICENSE                # License to use study data
-└── README.md              # Project overview and reproducibility guidelines
-
+├── charts/                # Visualizations (charts, tables, graphs)  
+├── analysis/              # Python notebooks for data analysis (Colab-compatible)  
+├── questionnaire/         # Survey structure and original questions (PDF)  
+├── LICENSE                # License to use study data  
+└── README.md              # Project overview and reproducibility guidelines  
 
 ## Reproducibility Instructions
 
