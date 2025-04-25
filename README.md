@@ -30,12 +30,7 @@ Participation in the study was voluntary and anonymous. No personal identifiers 
 
 ## Storage Requirements
 
-The complete dataset and analysis artifacts require less than 50MB of storage. The heaviest files are the figure exports and charts (PNG and PDF formats). All scripts and notebooks are optimized for web use and run on free Google Colab environments.
-
-## Archival Repository
-
-A snapshot of this repository, including the dataset, analysis scripts, and all visual assets, has been archived at:  
-📦 [Zenodo / DOI pending]
+The complete dataset and analysis artifacts require less than 20MB of storage. The heaviest files are the figure exports and charts (PNG and PDF formats). All scripts and notebooks are optimized for web use and run on free Google Colab environments.
 
 ## License
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
